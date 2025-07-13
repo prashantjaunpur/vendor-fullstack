@@ -44,7 +44,7 @@ USER Answer- Instead of deployment attaching the zip file and git link. Normally
     <!-- 2. What is most important to me when it comes to working in a team -->
     User Answer- When working in a team is open communication, mutual respect, and a shared commitment to the team's goals. I value a collaborative environment where everyone feels heard and supported, and where diverse perspectives are welcomed. It's important to me that team members are reliable, proactive, and willing to help each other grow—because that’s what drives both individual and collective success.
 
-    3. What is the worst part of being a software engineer.
+    <!-- 3. What is the worst part of being a software engineer. -->
     User Answer- One of the more challenging aspects of being a software engineer is dealing with ambiguity—whether it's unclear requirements, shifting priorities, or legacy systems with little documentation. It can also be tough to keep up with the fast pace of technological change. However, I see these challenges as opportunities to grow, ask better questions, and continuously improve both my technical and problem-solving skills.
 
 
