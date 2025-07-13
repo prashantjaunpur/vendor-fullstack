@@ -4,7 +4,7 @@ Vendor Management
 Vendor Application-
 
 USER- Prashant Gupta
-Stack Used- VUE + NODE + SQLite
+Stack Used- VUE + NODE + SQLite 
 
 <!-- Steps for run the Project- -->
 1) Clone the url
